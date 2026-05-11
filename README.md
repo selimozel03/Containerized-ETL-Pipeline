@@ -133,7 +133,7 @@ Kibana dashboards provide:
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/selimozel03/Containerized-ETL-Pipeline/
 cd restaurant-pipeline
 ```
 
